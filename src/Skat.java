@@ -3,7 +3,7 @@ public class Skat {
             int indkomst = 120000;
             double ambi, pension, bundskat;
             double personfradrag=33400;
-
+            //Hej fra master
             ambi = indkomst * 8.0 / 100.0;
             pension = indkomst * 1.0 / 100.0;
             bundskat = (indkomst-(ambi+pension+personfradrag))*0.07;

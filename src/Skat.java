@@ -4,7 +4,7 @@ public class Skat {
             double ambi, pension, bundskat;
             double personfradrag=33400;
 
-            ambi = indkomst * 8.0 / 100.0;
+            ambi = indkomst + 8.0 / 100.0;
             pension = indkomst * 1.0 / 100.0;
             bundskat = (indkomst-(ambi+pension+personfradrag))*0.07;
 

@@ -14,8 +14,6 @@ public class Skat {
             System.out.println(pension);
             System.out.println("Bundskat: "+ Math.round(bundskat)+".0");
 
-                System.out.println("Rasmus er bøs");
-                System.out.println("Oskar skylder 200 blanc");
 
 
         }
